@@ -1,1 +1,1 @@
-For use with https://mybinder.org/
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snotskie/ShadowspectRandomForest/HEAD)
