@@ -7,3 +7,4 @@ statsmodels==0.13.1
 pingouin==0.5.1
 xgboost==1.5.1
 dalex==1.4.1
+pca==1.6.4
